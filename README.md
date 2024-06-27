@@ -58,7 +58,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-After installation, you can view the portfolio locally by navigating to `http://localhost:3000` in your web browser.
+After installation, you can view the portfolio locally by navigating to `http://localhost:5173` in your web browser.
 
 ### Example Usage
 
